@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+duckdb
+plotly
+python-dotenv
+sqlglot
+reportlab
